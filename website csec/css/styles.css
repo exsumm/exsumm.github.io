@@ -1,0 +1,145 @@
+@charset "UTF-8";
+body {
+	background-color: #81A9D1;
+	background-image: url(../image/Screen%20Shot%202017-11-29%20at%208.55.15%20AM.png);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: actor;
+	font-style: normal;
+	font-weight: 400;
+}
+body nav {
+	font-family: Actor;
+	font-style: normal;
+	font-weight: 400;
+	background-color: #DAE5F5;
+}
+.naveList {
+	list-style-type: none;
+	overflow: hidden;
+	float: none;
+	width: 79%;
+}
+.naveListItem {
+	float: left;
+	display: block;
+	padding-top: 14px;
+	padding-left: 16px;
+	padding-bottom: 16px;
+	padding-right: 16px;
+	margin-top: 0%;
+}
+.naveList .naveListItem a {
+	color: #4F658D;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: bold;
+}
+.naveListItem a:hover  {
+	color: #000321; 
+}
+body footer {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: small;
+	text-align: center;
+}
+body main h1 {
+	background-size: auto auto;
+	height: 100%;
+	text-align: center;
+	font-size: 3em;
+	line-height: 14em;
+	background-color: #282828;
+	opacity: 0.51;
+	color: #FFFFFF;
+	margin-bottom: 4%;
+	margin-top: 4%;
+}
+h2  {
+	text-align: center;
+	height: 1em;
+	color: #FFFFFF;
+}
+.floatLeft {
+	width: 40%;
+	height: 0%;
+	background-color: #035DB2;
+	padding-bottom: 2.5%;
+	padding-top: 2.5%;
+	margin-bottom: 5%;
+}
+.floatLeft1 {
+	width: 40%;
+	height: 0%;
+	background-color: #CDCDCD;
+	padding-bottom: 2.5%;
+	padding-top: 2.5%;
+	margin-bottom: 5%;
+}
+section {
+	margin-top: 4%;
+}
+p1 {
+	line-height: 8%;
+	height: 0%;
+	margin-top: auto;
+	padding-bottom: 0%;
+}
+.floatRight {
+	width: 60%;
+	text-align: left;
+	height: 0%;
+	background-color: #FFF3DC;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	padding-right: 12%;
+	padding-left: 12%;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	float: right;
+}
+.floatRight1 {
+	width: 60%;
+	text-align: left;
+	height: 0%;
+	background-color: #FFF3DC;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	padding-right: 12%;
+	padding-left: 12%;
+	padding-top: 3.5%;
+	padding-bottom: 3.4%;
+	float: right;
+	margin-bottom: 0%;
+}
+h4 {
+	text-align: center;
+}
+.title  {
+	background-color: #DAE5F5;
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: large;
+}
+.part {
+	background-color: #DAE5F5;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: -2%;
+}
+h3 {
+	margin-bottom: 4%;
+	margin-top: 2%;
+	padding-bottom: 2%;
+	background-color: #2C5CA3;
+	width: 30%;
+	float: none;
+	text-align: center;
+	margin-left: 35%;
+	padding-top: 2%;
+	color: #FFFFFF;
+}
+.floatRight p {
+	margin-top: 0%;
+}
